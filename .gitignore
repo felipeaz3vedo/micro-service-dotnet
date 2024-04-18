@@ -1,0 +1,9 @@
+﻿# JetBrains Rider
+.idea/
+*.sln
+
+# Visual Studio cache/options directory
+.vs/
+
+# User-specific files
+*.user
