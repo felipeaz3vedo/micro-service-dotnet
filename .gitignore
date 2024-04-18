@@ -1,9 +1,15 @@
-﻿# JetBrains Rider
-.idea/
-*.sln
+﻿# Build results
+bin/
+obj/
 
-# Visual Studio cache/options directory
+# IDE-specific files
+.idea/
 .vs/
+*.sln
+*.sln.docstates/
 
 # User-specific files
 *.user
+*.userosscache
+*.suo
+*.userprefs
